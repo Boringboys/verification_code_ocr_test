@@ -1,0 +1,2 @@
+# verification_code_ocr_test
+图形验证码容易被OCR识别验证脚本
